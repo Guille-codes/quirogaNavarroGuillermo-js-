@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "prenda": "Zapatillas GAMECOURT 3.0",
+        "precio": 45000,
+        "talle": "42",
+        "imagen": "adidas1.png"
+    },
+    {
+        "id": 2,
+        "prenda": "Zapatillas GAMECOURT 2.0",
+        "precio": 35600,
+        "talle": "36",
+        "imagen": "adidas1.png" 
+    },
+    {
+        "id": 3,
+        "prenda": "Camiseta TITULAR ARGENTINA 22",
+        "precio": 15000,
+        "talle": "xl",
+        "imagen": "argentina.png" 
+    },
+    {
+        "id": 4,
+        "prenda": "Camiseta TITULAR BOCA JUNIORS 22/23",
+        "precio": 28000,
+        "talle": "M",
+        "imagen": "boca.png" 
+    },
+    {
+        "id": 5,
+        "prenda": "Zapatillas Nike Air Vapormax",
+        "precio": 105000,
+        "talle": "42",
+        "imagen": "nike1.png" 
+    },
+    {
+        "id": 6,
+        "prenda": "Zapatillas Nike Droid",
+        "precio": 55600,
+        "talle": "36",
+        "imagen": "nike1.png" 
+    },
+    {
+        "id": 7,
+        "prenda": "Pantalon Nike Essentials 22",
+        "precio": 25000,
+        "talle": "xl",
+        "imagen": "nike2.png" 
+    },
+    {
+        "id": 8,
+        "prenda": "Campera Nike Pro Therma-fit",
+        "precio": 20000,
+        "talle": "M",
+        "imagen": "nike3.png" 
+    },
+    {
+        "id": 9,
+        "prenda": "Zapatillas Topper X-Forcer",
+        "precio": 16000,
+        "talle": "42",
+        "imagen": "topper1.png" 
+    },
+    {
+        "id": 10,
+        "prenda": "Zapatillas Topper Ultralight II",
+        "precio": 25600,
+        "talle": "36",
+        "imagen": "topper1.png" 
+    },
+    {
+        "id": 11,
+        "prenda": "Buzo topper",
+        "precio": 15000,
+        "talle": "l",
+        "imagen": "topper3.png" 
+    },
+    {
+        "id": 12,
+        "prenda": "Camiseta topper estampada",
+        "precio": 8000,
+        "talle": "M",
+        "imagen": "topper2.png" 
+    },
+    {
+        "id": 13,
+        "prenda": "Zapatillas Vans Clasicc",
+        "precio": 45000,
+        "talle": "42",
+        "imagen": "vans1.png" 
+    },
+    {
+        "id": 14,
+        "prenda": "Zapatillas Vans Colors",
+        "precio": 35600,
+        "talle": "36",
+        "imagen": "vans1.png" 
+    },
+    {
+        "id": 15,
+        "prenda": "Buzo Vans",
+        "precio": 15000,
+        "talle": "xl",
+        "imagen": "vans2.png" 
+    },
+    {
+        "id": 16,
+        "prenda": "Zapatillas Vans Old Clasicc",
+        "precio": 28000,
+        "talle": "M",
+        "imagen": "vans3.png" 
+    }
+]
